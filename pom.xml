@@ -15,7 +15,7 @@
   <properties>
 	<!-- versions -->
 	<sonar.host.url>http://3.16.130.89:9000/</sonar.host.url>
-        <sonar.login>77b6653b33031d9a7233ed807875f68a5ecf9ebe</sonar.login>
+        <sonar.login>863151fa940e0e590271dea8f4d847b7670c0a1b</sonar.login>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
@@ -24,7 +24,7 @@
            <repository>
            <id>nexus</id>
            <name>Group Repo</name>
-           <url>http://3.136.18.238:8081/repository/wallmart-group-repo/</url>
+           <url>http://3.135.209.234:8081/repository/wallmart-group-repo/</url>
            </repository>
 
            </repositories>
@@ -35,13 +35,13 @@
          <repository>
          <id>nexus</id>
          <name> mithun technologies release nexus repository</name>
-         <url>http://3.136.18.238:8081/repository/wallmart-release/</url>
+         <url>http://3.135.209.234:8081/repository/wallmart-release/</url>
          </repository>
 
          <snapshotRepository>
          <id>nexus</id>
          <name>mithun technologies snapshot repository</name>
-         <url>http://3.136.18.238:8081/repository/wallmart-snashot/</url>
+         <url>http://3.135.209.234:8081/repository/wallmart-snashot/</url>
          </snapshotRepository>
 
        </distributionManagement>
