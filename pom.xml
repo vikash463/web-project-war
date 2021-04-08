@@ -24,7 +24,7 @@
            <repository>
            <id>nexus</id>
            <name>Group Repo</name>
-           <url>http://3.141.41.176:8081/repository/wallmart-group-repo/</url>
+           <url>http://13.59.54.7:8081/repository/wallmart-group-repo/</url>
            </repository>
 
            </repositories>
@@ -35,13 +35,13 @@
          <repository>
          <id>nexus</id>
          <name> mithun technologies release nexus repository</name>
-         <url>http://3.141.41.176:8081/repository/wallmart-release/</url>
+         <url>http://13.59.54.7:8081/repository/wallmart-release/</url>
          </repository>
 
          <snapshotRepository>
          <id>nexus</id>
          <name>mithun technologies snapshot repository</name>
-         <url>http://3.141.41.176:8081/repository/wallmart-snashot/</url>
+         <url>http://13.59.54.7:8081/repository/wallmart-snashot/</url>
          </snapshotRepository>
 
        </distributionManagement>
