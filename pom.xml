@@ -92,6 +92,15 @@
 		
 	</dependencies>
 	
+	<repositories>
+           <repository>
+           <id>nexus</id>
+           <name>Group Repo</name>
+           <url>http://3.7.69.250:8081/repository/gropu-maven/</url>
+           </repository>
+
+           </repositories>
+	
 	<distributionManagement>
 	
 	    <repository>
