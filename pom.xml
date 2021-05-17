@@ -112,7 +112,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.53.2:8081/repository/snapshot-maven/</url>
+	      <url>http://52.66.53.20:8081/repository/snapshot-maven/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
